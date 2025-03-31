@@ -37,7 +37,7 @@ price_optimization/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/price_optimization.git
+git clone https://github.com/StarPlatinumDS/price-opt-demo
 cd price_optimization
 ```
 
